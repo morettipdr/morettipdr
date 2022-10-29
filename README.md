@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with basically everything
 - 📫 How to reach me: discord -> pdr.#7176
 - ⚡ Fun fact: I'm 16
--->

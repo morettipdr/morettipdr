@@ -4,8 +4,9 @@
 let Pedro = {
     name: "Pedro Augusto Moretti Moreira",
     acknowledgements: "Web Development",
-    languages: ["Javascript", "React", "NodeJS"] 
-
+    language: "Javascript",
+    technologies: ["NodeJS", "React", "React Native", "Tailwind"]
+    
 }
 ```
 
